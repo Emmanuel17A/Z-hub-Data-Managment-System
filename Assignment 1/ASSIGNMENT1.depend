@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1699291767 source:d:\cs150 labs\assignment 1\assignment1\assignment.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1699890623 source:c:\users\emman\desktop\assignment 1 codeblock\assignment.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1699944420 source:d:\group 4\assignment 1\assignment.cpp
+	<iostream>
+	<fstream>
+	<string>
+

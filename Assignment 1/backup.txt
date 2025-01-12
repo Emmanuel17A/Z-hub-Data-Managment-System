@@ -1,0 +1,7 @@
+Emmz	Futurist	12345/60/1	20	ghx	03/11/2023	Patented	IT
+Chalwe	Silas	123456/68/1	95	AI_MASTER	03/11/2023	Not_required	FoodTech
+Joseph	Zulu	123456/10/1	27	tyto	11/11/2011	Patented	MetalTech
+Patience	Payz	123123/10/1	15	AI_Master	03/11/2023	Not_required	MetalTech
+Juma	187	987654/67/1	19	CEO	03/11/2023	Not_required	IT
+john	sane	123456/78/1	45	fgd	06/11/2023	Not_required	FoodTech
+chalwe	silas	123456/79/1	23	gfd	06/11/2023	Patented	FoodTech
